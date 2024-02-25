@@ -1,0 +1,4 @@
+{
+    "type": "json",
+    "users": [{ "email": "user3@example.com", "password": "password3" }]
+}
